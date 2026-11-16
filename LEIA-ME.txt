@@ -1,0 +1,19 @@
+LEITOR DE PDF — PÁGINAS EM SEQUÊNCIA + MINIATURAS LATERAIS
+
+Novidades:
+- Mostra todas as páginas do PDF em sequência vertical.
+- Numera cada página como PÁGINA X DE Y.
+- Exibe uma coluna lateral com miniaturas de todas as páginas.
+- Cada miniatura é clicável: toque nela para ir diretamente à página.
+- A miniatura da página atual fica destacada automaticamente.
+- O contador mostra a página atual e o total de páginas.
+- Os botões Anterior/Próxima e o campo de número continuam funcionando.
+
+Para atualizar o aplicativo:
+1. Extraia este ZIP.
+2. Envie todos os arquivos para a raiz do repositório GitHub, substituindo os antigos.
+3. Faça Commit changes e aguarde o GitHub Pages publicar.
+4. Atualize o site com Ctrl+F5 e teste um PDF com várias páginas.
+5. Depois de testar, gere um novo APK no PWABuilder.
+
+Observação: PDFs muito grandes podem exigir mais memória, pois o leitor mostra páginas e miniaturas.
